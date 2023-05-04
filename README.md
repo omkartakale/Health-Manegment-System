@@ -1,7 +1,7 @@
 # Health-Manegment-System
 
 ## Technology used : 
-- Spring Boot MVC
+- Spring Boot MVC   
 - Spring Security
 - Spring JPA
 - Thymleaf
